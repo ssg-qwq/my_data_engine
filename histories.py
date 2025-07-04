@@ -1,4 +1,4 @@
-from .frames import ModalityFrame, ListModalityFrame
+from .frames_legacy import ModalityFrame, ListModalityFrame
 from typing import List, Tuple
 
 """
